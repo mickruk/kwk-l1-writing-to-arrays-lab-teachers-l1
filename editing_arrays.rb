@@ -10,8 +10,6 @@ def change_rainbow_colors
   "red"
   "orange"
   "yellow"
-  "green"
-  "blue"
   end
 
 def add_colors
